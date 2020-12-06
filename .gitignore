@@ -1,0 +1,11 @@
+.idea
+.idea/
+.DS_Store
+.vscode
+*.sublime*
+npm-debug.*
+
+dist/
+node_modules/
+app/css/**/*
+

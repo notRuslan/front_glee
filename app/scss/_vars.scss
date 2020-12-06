@@ -1,0 +1,30 @@
+$default: #ffffff;
+$bg_main: #fcd7b6;
+$bg_main1: #a3bbc8;
+$bg_main2: #fef7f0;
+$c_title: #436372;
+$t_color: #1f2044;
+$a_color: #7b7b7b;
+$p_color: #234969;
+$separator_color: #dae4e9;
+
+
+%dmsans-400 {
+  font-family: 'DMSans-Regular', sans-serif ;
+  font-weight: 400;
+}
+
+%dmsans-700 {
+  font-family: 'DMSans-Bold', sans-serif ;
+  font-weight: 700;
+}
+
+%rubik-400 {
+  font-family: 'Rubik-Regular', sans-serif ;
+  font-weight: 400;
+}
+
+%rubik-500 {
+  font-family: 'Rubik-Medium', sans-serif ;
+  font-weight: 500;
+}
